@@ -1,1 +1,2 @@
-# Data-Science-and-Machine-Learning-Capstone-Project
+# applied-data-science-capstone
+Coursera/IBM Applied Data Science Capstone
